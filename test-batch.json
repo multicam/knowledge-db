@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Python is a popular programming language for data science and machine learning",
+    "metadata": { "category": "programming", "language": "python" },
+    "source": "test-batch"
+  },
+  {
+    "content": "Deep learning uses multi-layer neural networks to learn hierarchical representations",
+    "metadata": { "category": "ai", "topic": "deep-learning" },
+    "source": "test-batch"
+  },
+  {
+    "content": "Natural language processing enables computers to understand and generate human language",
+    "metadata": { "category": "ai", "topic": "nlp" },
+    "source": "test-batch"
+  }
+]
