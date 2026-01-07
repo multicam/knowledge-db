@@ -1,7 +1,7 @@
 // Example usage of the Knowledge Database
 // This will be functional once Phase 2-5 are complete
 
-import { KnowledgeBase } from './src/index';
+import { KnowledgeBase } from './src';
 
 async function main() {
   console.log('Knowledge Database Example\n');
